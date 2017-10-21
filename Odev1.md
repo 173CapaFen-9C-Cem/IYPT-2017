@@ -1,21 +1,13 @@
 
-
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-C  | Cem Etkin Damar| 594
 
-#  (buraya proje başlığını yazınız)
+# Coin
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+Projemin amacı bir para belli bir yükseklikten bırakıldığında yazı veya tura gelme olasılığı eşit midir? Bilgisine ulaşmak. Bu deneyde kulanacağım yöntemler:bozuk parayı belli bir sayıda belirli bir yükseklikten bırakıp sonuçları karşılaştırmak olucaktır. Bunun sonucunda bu sorunun cevabına ulaşabiliriz.Bunun için ilk önce bir bozuk parayı 50 kere havaya atıp gelen yazı veya turadan hangisiyse onu bir kağıda kaydedicem bu işlem devam ederken sürekli aynı yüksekliği kullanmaya özen göstericem ve böyle böyle işlem sürücek.Deney bittiğinde ise eğer eşit sayılarda geliyorsa eşit olduğunu öğrenicez eğer ki çok farklı sayılar gelirse bunun nedenini araştırabiliriz mesela Stanford Üniversitesinde yapılan bir araştırmaya göre paranın atıldığı yüzün gelmesi diğer yüze göre %1 daha fazladır. Veya bazı kişilerin dediği gibi paranın tura yüzü daha ağır olabilir bunun farklı olmasının nedenini araştırdıktan sonra bunun raporunu yazıcam ve bunlardan bir makale yazıcam. Sonuç olarak sorumuzun csvabına ulaşmış olucaz. 
+## Kaynakçalar  
+Stanford üniversitesinin araştırması
+Nedir.net
+KhanAcademy.org
+(İypt'nin 1989'daki makalelerini bulamadığım için başka kaynakçalar kullandım)
